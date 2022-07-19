@@ -1,0 +1,17 @@
+{
+  "name": "RESTful-API-Open",
+  "version": "0.6.9",
+  "description": "Independant HTTP server with API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phxsol/RESTful-API-Open.git"
+  },
+  "keywords": [
+  ],
+  "author": "Joshua Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phxsol/RESTful-API-Open/issues"
+  },
+  "homepage": "https://github.com/phxsol/RESTful-API-Open#readme"
+}
